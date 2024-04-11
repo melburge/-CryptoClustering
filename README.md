@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 In class activities 
 and google was used to reserach this assignment
 
@@ -14,3 +15,7 @@ and google was used to reserach this assignment
 ![alt text](image-5.png)
 
 ![alt text](image-6.png)
+=======
+# CryptoClustering
+Module 19 Challenge
+>>>>>>> 98be63d7e2bd5481e46aeee5c5f76bff783130e8
